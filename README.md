@@ -1,6 +1,6 @@
 ## Hello! I'm Henrique Custódio 👋
-- 🔭 I’m currently working as an IT Project Management Assistant
-- 🌱 I’m currently learning web development
+- 💻 I’m currently working as an IT Project Management Assistant
+- 📘 I’m currently learning web development
 - 🤘 Guitar player and heavy metal fan 
 
 <div>
