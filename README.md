@@ -1,7 +1,7 @@
 ## Hello! I'm Henrique Custódio 👋
 - 🔭 I’m currently working as an IT Project Management Assistant
 - 🌱 I’m currently learning web development
-- ⚡ Fun fact: Guitar player and heavy metal fan 🤘
+- 🤘 Guitar player and heavy metal fan 
 
 <div>
   <a href="https://github.com/henriquebcustodio">
