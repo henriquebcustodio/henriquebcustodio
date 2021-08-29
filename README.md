@@ -1,4 +1,4 @@
-## Hello! I'm Henrique Custódio 👋
+## Hello there! 👋
 - 💻 I’m currently working as an IT Project Management Assistant
 - 📘 I’m currently learning web development
 - 🤘 Guitar player and heavy metal fan 
