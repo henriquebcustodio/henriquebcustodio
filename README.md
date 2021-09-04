@@ -1,6 +1,6 @@
 ## Hello there! 👋
-- 💻 I’m currently working as an IT Project Management Assistant
-- 📘 I’m currently learning web development
+- 💻 I’m currently working as an IT Project Management Assistant at Bosch
+- 📘 Developing my skills in web development
 - 🤘 Guitar player and heavy metal fan 
 
 ## 📈 Github Stats
