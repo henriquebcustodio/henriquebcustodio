@@ -1,5 +1,5 @@
 ## Hello there! 👋
-- 💻 I’m currently working as an IT Project Management Assistant at Bosch
+- 💻 IT Project Management Assistant at Bosch
 - 📘 Learning web development
 - 🤘 Guitar player and heavy metal fan 
 
