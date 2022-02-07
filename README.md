@@ -1,5 +1,5 @@
 ## Hello there! 👋
-- 💻 IT Project Management Assistant at Bosch
+- 💻 Software Development Intern @ CI&T
 - 📘 Learning web development
 - 🤘 Guitar player and heavy metal fan 
 
