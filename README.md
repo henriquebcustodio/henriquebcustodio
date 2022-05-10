@@ -4,7 +4,6 @@ I'm a software developer passionate about technology, web development and music.
 
 &nbsp;
 &nbsp;
-&nbsp;
 ## 👨‍💻 Technologies
   
 <div style="display: inline_block"><br>
@@ -20,11 +19,9 @@ I'm a software developer passionate about technology, web development and music.
 
 &nbsp;
 &nbsp;
-&nbsp;
 ## 📚 I'm currently studying
 I'm mostly focusing my studies on React and its ecosystem, but I'm also looking forward to understanding more about design systems and tools such as [Stitches](https://stitches.dev/), [Storybook](https://storybook.js.org/), and [Radix UI](https://www.radix-ui.com/)
 
-&nbsp;
 &nbsp;
 &nbsp;
 ## 📈 Github Stats
