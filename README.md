@@ -19,8 +19,8 @@ I'm a software developer passionate about technology, web development, and music
 
 &nbsp;
 &nbsp;
-## 📚 I'm currently studying
-I'm mostly focusing my studies on React and its ecosystem, but I'm also looking forward to understanding more about design systems and tools such as [Stitches](https://stitches.dev/), [Storybook](https://storybook.js.org/), and [Radix UI](https://www.radix-ui.com/)
+## 📚 What I'm studying
+I'm currently focusing my studies on React and its ecosystem, but I'm also looking forward to dive into Nest.js soon.
 
 &nbsp;
 &nbsp;
