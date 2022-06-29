@@ -19,11 +19,6 @@ I'm a software developer passionate about technology, web development, and music
 
 &nbsp;
 &nbsp;
-## 📚 What I'm studying
-I'm currently focusing my studies on React and its ecosystem, but I'm also looking forward to dive into Nest.js soon.
-
-&nbsp;
-&nbsp;
 ## 📈 Github Stats
 &nbsp;
 &nbsp;
