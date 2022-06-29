@@ -3,7 +3,6 @@ I'm a software developer passionate about technology, web development, and music
 <p> I'm currently working as a software development intern in a full-stack role, using tools such as Typescript and Vue.js on the front end and Python with FastAPI on the back end. </p>
 
 &nbsp;
-&nbsp;
 ## 👨‍💻 Technologies
   
 <div style="display: inline_block"><br>
@@ -29,8 +28,6 @@ I'm a software developer passionate about technology, web development, and music
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebcustodio&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
-
-
   
 ## 
  
